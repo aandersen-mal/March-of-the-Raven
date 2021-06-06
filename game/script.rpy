@@ -5,6 +5,7 @@
 
 define e = Character("Eileen")
 define g = Character("Gwen")
+define c = Character("Clyde")
 
 
 # The game starts here.
