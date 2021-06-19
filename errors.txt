@@ -1,0 +1,106 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/prologueChoix.rpy", line 49: expected statement.
+    etiquette = etiquette + 5
+              ^
+
+File "game/prologueChoix.rpy", line 52: expected statement.
+    popularity = popularity + 5
+               ^
+
+File "game/prologueChoix.rpy", line 57: expected statement.
+    combat = combat + 5
+           ^
+
+File "game/prologueChoix.rpy", line 60: expected statement.
+    cunning = cunning + 5
+            ^
+
+File "game/prologueChoix.rpy", line 63: expected statement.
+    charisma = charisma + 5
+             ^
+
+File "game/prologueChoix.rpy", line 66: expected statement.
+    magic = magic + 5
+          ^
+
+File "game/prologueChoix.rpy", line 74: expected statement.
+    jaugeIntroExtro = jaugeIntroExtro + 15
+                    ^
+
+File "game/prologueChoix.rpy", line 80: expected statement.
+    jaugeIntroExtro = jaugeIntroExtro + 15
+                    ^
+
+File "game/prologueChoix.rpy", line 86: expected statement.
+    magic = magic + 5
+          ^
+
+File "game/prologueChoix.rpy", line 88: expected statement.
+    etiquette = etiquette + 5
+              ^
+
+File "game/prologueChoix.rpy", line 90: expected statement.
+    combat = combat +5
+           ^
+
+File "game/prologueChoix.rpy", line 92: expected statement.
+    intelligence = intelligence + 5
+                 ^
+
+File "game/prologueChoix.rpy", line 94: expected statement.
+    cunning = cunning + 5
+            ^
+
+File "game/prologueChoix.rpy", line 96: expected statement.
+    charisma = charisma + 5
+             ^
+
+File "game/prologueChoix.rpy", line 98: expected statement.
+    popularity = popuarity + 5
+               ^
+
+File "game/prologueChoix.rpy", line 99: expected statement.
+    jaugeIntroExtro = jaugeIntroExtro + 5
+                    ^
+
+File "game/prologueChoix.rpy", line 101: expected statement.
+    beauty = beauty + 5
+           ^
+
+File "game/prologueChoix.rpy", line 103: expected statement.
+    intelligence = intelligence + 5
+                 ^
+
+File "game/prologueChoix.rpy", line 104: expected statement.
+    jaugeIntroExtro = jaugeIntroExtro - 5
+                    ^
+
+File "game/prologueChoix.rpy", line 117: expected statement.
+    jaugeIntroExtro = jaugeIntroExtro + 5
+                    ^
+
+File "game/prologueChoix.rpy", line 121: expected statement.
+    savedMaid = 1
+              ^
+
+File "game/prologueChoix.rpy", line 128: expected statement.
+    savedMaid = 1
+              ^
+
+File "game/prologueChoix.rpy", line 133: expected statement.
+    savedMaid = 0
+              ^
+
+File "game/prologueChoix.rpy", line 140: expected statement.
+    savedMaid = 1
+              ^
+
+File "game/prologueChoix.rpy", line 145: expected statement.
+    savedMaid = 0
+              ^
+
+Ren'Py Version: Ren'Py 7.4.5.1648
+Sat Jun 19 11:28:38 2021

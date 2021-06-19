@@ -1,0 +1,36 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/stats.rpy", line 22, in script
+    define sex = f
+  File "game/stats.rpy", line 22, in script
+    define sex = f
+  File "game/stats.rpy", line 22, in <module>
+    define sex = f
+NameError: name 'f' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/bootstrap.py", line 326, in bootstrap
+    renpy.main.main()
+  File "renpy/main.py", line 515, in main
+    renpy.game.context().run(node)
+  File "game/stats.rpy", line 22, in script
+    define sex = f
+  File "game/stats.rpy", line 22, in script
+    define sex = f
+  File "renpy/ast.py", line 2167, in execute
+    self.set()
+  File "renpy/ast.py", line 2178, in set
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "renpy/python.py", line 2242, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/stats.rpy", line 22, in <module>
+    define sex = f
+NameError: name 'f' is not defined
+
+Windows-10-10.0.19041
+Ren'Py 7.4.5.1648
+March of the Raven 1.0
+Sun Jun  6 14:00:49 2021
