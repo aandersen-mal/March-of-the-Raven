@@ -1,0 +1,50 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/intro.rpy", line 9: expected statement.
+    “As the day is finally drawing to an end, I enter my room and close the door behind me.”
+                                            ^
+
+File "game/intro.rpy", line 10: expected statement.
+    “Completely exhausted, I let out a deep sigh.”
+                         ^
+
+File "game/intro.rpy", line 11: expected statement.
+    “It has been a long time since I last attended a social gathering, and this one was especially tiring.”
+                                                                     ^
+
+File "game/intro.rpy", line 12: expected statement.
+    “However, now that it has ended, everything should go back to normal for me. At least, this thought brings me some small comfort.”
+            ^
+
+File "game/intro.rpy", line 13: expected statement.
+    “Getting ready to go to bed, I stop in front of the mirror{w} and gasp.”
+                               ^
+
+File "game/intro.rpy", line 17: expected statement.
+    “Waving slowly above my head, I notice an ethereal cloth, red like blood.”
+                                ^
+
+File "game/intro.rpy", line 18: expected statement.
+    “A Death Flag.”
+                 ^
+
+File "game/intro.rpy", line 19: expected statement.
+    “For as long as I remember, those would appear above people as a bad omen of what would befall them.”
+         ^
+
+File "game/intro.rpy", line 20: expected statement.
+    “Indeed, whenever I touch those people’s forehead, the next dream I make will reveal how they die.”
+           ^
+
+File "game/intro.rpy", line 21: expected statement.
+    “This is my power.”
+                     ^
+
+File "game/intro.rpy", line 22: expected statement.
+    “And it completely shaped my destiny, for I was a different person in the past…”
+                                        ^
+
+Ren'Py Version: Ren'Py 7.4.5.1648
+Mon Jul  5 13:23:35 2021
