@@ -20,3 +20,4 @@ label startintro:
     "Indeed, whenever I touch those people’s forehead, the next dream I make will reveal how they die."
     "This is my power."
     "And it completely shaped my destiny, for I was a different person in the past…"
+    jump startPrologue

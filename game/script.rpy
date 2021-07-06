@@ -14,6 +14,6 @@ label start:
 
     jump startintro
 
-    jump startPrologue
+    
 
     return
