@@ -143,3 +143,4 @@ label startPrologue :
                 "As you saw in your dream, your maid was pushed down the stairs, and the ex lover quickly flew the scene."
                 "It Left you with some pretty traumatic memories"
                 $savedMaid = 0
+jump introlucy
